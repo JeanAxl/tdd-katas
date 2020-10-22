@@ -7,7 +7,7 @@
  * 6 21112211
  *
  * Write a function that displays the n'th term of conways suite
- * **/
+ * * */
 const ConwaysSuite = require('./conwaysSuite');
 
 describe('Conways suite', () => {
